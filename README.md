@@ -5,6 +5,7 @@
 
 Click on the following link to check out the colab file.
 - [Colab](https://colab.research.google.com/drive/1kG0A9z60bffVGu9jjfDJZwVytjBjrGDf#scrollTo=sNft0QQIz5Sm)
+- [Video](https://drive.google.com/file/d/1q7tJ4kflNu2xnod0Y9C7PQmiadoJEzDI/view?usp=sharing)
 
 
 ---
